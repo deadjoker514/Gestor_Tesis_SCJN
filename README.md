@@ -111,9 +111,9 @@ Esta aplicación consume los servicios web públicos del **Sistema SJF 2.0** de 
 
 Puedes descargar la última versión del ejecutable desde la sección **Releases** del repositorio:
 
-[![Descargar desde Releases](https://img.shields.io/github/v/release/tu-usuario/tu-repositorio?label=%C3%9Altima%20versi%C3%B3n&logo=github)](https://github.com/tu-usuario/tu-repositorio/releases/latest)
+[![Descargar desde Releases](https://img.shields.io/github/v/release/deadjoker514/Gestor_Tesis_SCJN?label=%C3%9Altima%20versi%C3%B3n&logo=github)](https://github.com/deadjoker514/Gestor_Tesis_SCJN/releases/tag/v1.0.0)
 
-1. Ve a [Releases](https://github.com/tu-usuario/tu-repositorio/releases/latest) y descarga el archivo `GestorTesisSCJN.exe`.
+1. Ve a [Releases](https://github.com/deadjoker514/Gestor_Tesis_SCJN/releases/tag/v1.0.0) y descarga el archivo `GestorTesisSCJN.exe`.
 2. Coloca el ejecutable en una carpeta vacía.
 3. Ejecuta el archivo. En el primer inicio se creará automáticamente la carpeta `data` y se copiará la base de datos inicial.
 4. La carpeta `tesis_descargadas` se generará para almacenar los PDF.
